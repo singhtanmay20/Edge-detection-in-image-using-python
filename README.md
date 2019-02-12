@@ -6,4 +6,4 @@ import opencv and numpy
 change the input and output locations of the images
 
 RUN
-python proj_1.1.py
+python proj1a.py
